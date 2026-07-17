@@ -1,4 +1,4 @@
-# 🧥 Customer Feedback Triage & Automated Replies
+# 🧥 Customer Feedback Analysis & Automated Replies
 
 > Thousands of reviews come in every week. This project finds the angry ones automatically and drafts a warm, personal apology for each, so the support team can skim and send instead of writing every reply from scratch.
 
