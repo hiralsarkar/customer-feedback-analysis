@@ -98,7 +98,12 @@ No models here, just rules and string logic:
 - **Top phrases:** the same idea for two-word pairs, but this time I *keep* small words like "too" and "not", because "too small" and "not worth" are the whole point.
 - **Themes:** I grouped the common words into six buckets by hand (fit, quality, price, and so on) and counted how many critical reviews fall into each.
 
-<p align="center"><img src="images/keywords.png" width="560" alt="Top complaint words in critical reviews"></p>
+Single words on the left, two-word phrases on the right - the phrases are where the real complaint lives:
+
+<p align="center">
+  <img src="images/keywords.png" width="420" alt="Top complaint words in critical reviews">
+  <img src="images/phrases.png" width="420" alt="Top complaint phrases in critical reviews">
+</p>
 
 ---
 
