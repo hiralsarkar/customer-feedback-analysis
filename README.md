@@ -101,7 +101,6 @@ No models here, just rules and string logic:
 Single words on the left, two-word phrases on the right - the phrases are where the real complaint lives:
 
 <p align="center">
-  <img src="images/keywords.png" width="420" alt="Top complaint words in critical reviews">
   <img src="images/phrases.png" width="420" alt="Top complaint phrases in critical reviews">
 </p>
 
